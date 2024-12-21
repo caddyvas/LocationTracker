@@ -33,7 +33,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBlRBRBHAopAvzb83lVzrQyS-tkMiHTBLc" />
+            android:value="USE TOKEN IN LOCAL BRANCH" />
         <receiver
             android:name=".GeofenceBroadcastReceiver" />
 
